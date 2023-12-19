@@ -1,0 +1,453 @@
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 30 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 30 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 12 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 50 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 50 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 70 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 100 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 50 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 120 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 120 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 140 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+0xec2c5c305806dDa5E2852571ae974dD38CB265dc
+-------------------->Bought 3/3 coins<---------------------
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 130 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xec2c5c305806dDa5E2852571ae974dD38CB265dc
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+-------------------->Bought 3/3 coins<---------------------
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 150 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+0xec2c5c305806dDa5E2852571ae974dD38CB265dc
+-------------------->Bought 3/3 coins<---------------------
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 160 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xec2c5c305806dDa5E2852571ae974dD38CB265dc
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+-------------------->Bought 3/3 coins<---------------------
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 190 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xec2c5c305806dDa5E2852571ae974dD38CB265dc
+0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+-------------------->Bought 3/3 coins<---------------------
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 180 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xec2c5c305806dDa5E2852571ae974dD38CB265dc
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+-------------------->Bought 3/3 coins<---------------------
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 220 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xec2c5c305806dDa5E2852571ae974dD38CB265dc
+0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+-------------------->Bought 3/3 coins<---------------------
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 220 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xec2c5c305806dDa5E2852571ae974dD38CB265dc
+0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+-------------------->Bought 3/3 coins<---------------------
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 220 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+0xec2c5c305806dDa5E2852571ae974dD38CB265dc
+0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123
+0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68
+-------------------->Bought 3/3 coins<---------------------
+0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 10 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 10 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 10 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 10 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 10 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 10 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 10 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 15 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 20 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 25 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 5 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 10 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 15 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 20 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,
+******************************Results for 25 wallet addresses**********************************
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,
+******************************Results for 30 wallet addresses**********************************
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,
+******************************Results for 40 wallet addresses**********************************
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,
+******************************Results for 43 wallet addresses**********************************
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,
+******************************Results for 48 wallet addresses**********************************
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 5 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 10 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 15 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b,
+******************************Results for 20 wallet addresses**********************************
+-------------------->Bought 2/3 coins<---------------------
+-------------------->Bought 3/3 coins<---------------------
+
+
+
+
+
+***************************Coin contracts used for getting results******************************
+0x8390a1da07e376ef7add4be859ba74fb83aa02d5,
+******************************Results for 10 wallet addresses**********************************
+
+
+
+
+
